@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocImporter", "DocImporter.csproj", "{4B2F5011-B94B-4AAF-8FBB-93946F2FCF81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B2F5011-B94B-4AAF-8FBB-93946F2FCF81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2F5011-B94B-4AAF-8FBB-93946F2FCF81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2F5011-B94B-4AAF-8FBB-93946F2FCF81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2F5011-B94B-4AAF-8FBB-93946F2FCF81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BFDB95B-5286-4919-8F5D-79342AE2DE60}
+	EndGlobalSection
+EndGlobal
